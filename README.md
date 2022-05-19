@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 [![Chonghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulcccccch&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulcccccch)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulcccccch&hide=html,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
