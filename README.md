@@ -1,12 +1,15 @@
 ### Hi there, I'm Chonghan (or Paul) 👋
  I'm interested in any techy stuff within the realm of Computer Science, but here is a list of things that I'm particularly interested or experienced in
 - Full-stack Development
-- Cloud Computing
-- Distributed Systems
+- Data Infrastructure
+- Large Language Models
 - Deep Learning
 - Multimodal Machine Learning
 
-I lead the development of [Robustar](https://github.com/HaohanWang/Robustar), and am working on a lot of interesting stuff.
+A few thigns about me:
+- I lead the development of [Robustar](https://github.com/HaohanWang/Robustar).
+- I love exploring things and I believe in a top-down breath-first philosophy.
+- Always working on one startup idea or another. Will found a startup once the time is ripe.
 
 <!--
 **PaulCCCCCCH/PaulCCCCCCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
